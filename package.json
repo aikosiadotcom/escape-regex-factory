@@ -1,6 +1,6 @@
 {
   "name": "@aikosia/escape-regex-factory",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Add static getInstance method to RegExp class",
   "main": "./src/index.js",
   "type": "module",

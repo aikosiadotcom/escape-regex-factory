@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/aikosiadotcom/escape-regex-factory/compare/v1.0.0...v1.0.1) (2023-05-13)
+
+
+### Bug Fixes
+
+* docs changes ([c878479](https://github.com/aikosiadotcom/escape-regex-factory/commit/c8784794cdd08588af5aaf259258d283d0b04616))
+
 # 1.0.0 (2023-05-13)
 
 

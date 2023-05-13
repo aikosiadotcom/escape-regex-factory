@@ -1,0 +1,53 @@
+{
+  "name": "@aikosia/escape-regex-factory",
+  "version": "1.0.0",
+  "description": "Add static getInstance method to RegExp class",
+  "main": "./src/index.js",
+  "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aikosiadotcom/create-regexp"
+  },
+  "engines": {
+    "npm": ">=8.19.2",
+    "node": ">=18.12.1"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  },
+  "scripts": {
+    "start": "node ./src/index.js",
+    "release": "git add * && git-cz && git pull origin && git push origin"
+  },
+  "keywords": [
+    "aikosia",
+    "escape",
+    "regex",
+    "regexp",
+    "escape-regex"
+  ],
+  "files": [
+    "src/**/*.js"
+  ],
+  "author": "firman",
+  "license": "MIT",
+  "imports": {
+    "#src/*": "./src/*.js"
+  },
+  "exports": "./src/index.js",
+  "devDependencies": {
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/commit-analyzer": "^9.0.2",
+    "@semantic-release/git": "^10.0.1",
+    "@semantic-release/npm": "^10.0.3",
+    "@semantic-release/release-notes-generator": "^11.0.1",
+    "commitizen": "^4.3.0",
+    "cz-conventional-changelog": "^3.3.0",
+    "semantic-release": "^21.0.2"
+  }
+}

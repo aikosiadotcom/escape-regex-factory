@@ -16,7 +16,7 @@ npm install @aikosia/escape-regex-factory
 
 ### HOW TO USE
 
-```
+``` 
 import "@aikosia/escape-regex-factory"
 ```
 

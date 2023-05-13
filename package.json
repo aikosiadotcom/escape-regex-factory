@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/aikosiadotcom/create-regexp"
+    "url": "https://github.com/aikosiadotcom/escape-regexp-factory"
   },
   "engines": {
     "npm": ">=8.19.2",

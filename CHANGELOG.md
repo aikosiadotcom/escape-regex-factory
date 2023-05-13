@@ -1,3 +1,16 @@
+# 1.0.0 (2023-05-13)
+
+
+### Bug Fixes
+
+* **package.json:** forget to change the name and it's cause failed publish to npm ([ed23063](https://github.com/aikosiadotcom/escape-regex-factory/commit/ed230634674d9954f2e79b74fe8056b8ab11dc17))
+* so the cause is word regexp. should be regex ([c8c0579](https://github.com/aikosiadotcom/escape-regex-factory/commit/c8c0579e3d0a5638f7c20d5347054b39c23e7bbf))
+
+
+### Features
+
+* as a remainder ([433dc9d](https://github.com/aikosiadotcom/escape-regex-factory/commit/433dc9d511a7119378a470b7185b802d7ba0699b))
+
 # [1.2.0](https://github.com/aikosiadotcom/asterisker/compare/v1.1.0...v1.2.0) (2023-05-07)
 
 
